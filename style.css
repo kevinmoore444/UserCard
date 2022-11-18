@@ -1,0 +1,65 @@
+
+.row1{
+    height: 70px;
+    width: 500px;
+    background-color:darkturquoise;
+    border: 1px solid grey;
+}
+
+
+.row2{
+    height: 200px;
+    width: 500px;
+    background-color: white;
+    border: 1px solid grey;
+    padding-top: 15px;
+}
+
+.Name{
+    line-height: 2px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.Hometown{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    line-height: 1px;
+    padding-left: 20px;
+}
+
+.Description{
+    line-height: 0px;
+    padding-left: 20px;
+}
+
+.EditProfile{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.Name img{
+    border-radius: 30px;
+    width: 50px;
+    padding-right: 7px;
+    position: absolute;
+    top: 50px;
+}
+
+
+.Hometown img{
+    border-radius: 3px;
+    width: 10px;
+    padding-right: 7px;
+}
+
+.EditProfile img{
+    border-radius: 3px;
+    width: 12px;
+    padding-right: 7px;
+}
+
